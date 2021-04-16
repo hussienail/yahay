@@ -923,6 +923,16 @@ width: 68%;
     line-height: 14px;
 
 
+    a.label.label-primary.fr {
+    height: 100%;
+    width: 100%;
+    background-color: #1391A7 !important;
+    border: 1px solid rgb(189 154 154 / 0%);
+    background: linear-gradient( 
+369deg
+ ,#b74674 0%,#1391a7 100%)!important;
+}
+    
 img.fitimg.fl.borderg.spic.corner.hand {
     width: 53px !important;
     height: 53px !important;
