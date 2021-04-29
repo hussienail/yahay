@@ -114,8 +114,11 @@ div#tlogins div#l1  {
     border-bottom: 1px solid;
     margin-bottom: 2px;
 	padding: 18px 2px 0px !important;
-border-bottom: 27px solid #c0a47c;
-  background-size: contain;
+    background-image: -webkit-linear-gradient(
+45deg
+,#c0a47c 25%,#c0a47c 25%,#c0a47c 50%,#c0a47c 50%,#c0a47c 75%,#c0a47c 75%,#c0a47c)!important;
+    background: #ebebeb;
+}  background-size: contain;
     background-repeat: no-repeat;
     background-position: right;
     height: 64px;
@@ -126,8 +129,11 @@ div#tlogins div#l2 ,div#l3 {
     border-bottom: 1px solid;
     margin-bottom: 2px;
 	padding: 4px 2px 4px !important;
-border-bottom: 27px solid #c0a47c;
-  background-size: contain;
+    background-image: -webkit-linear-gradient(
+45deg
+,#c0a47c 25%,#c0a47c 25%,#c0a47c 50%,#c0a47c 50%,#c0a47c 75%,#c0a47c 75%,#c0a47c)!important;
+    background: #ebebeb;
+}  background-size: contain;
     background-repeat: no-repeat;
     background-position: right;
     height: 64px;
