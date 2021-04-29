@@ -114,10 +114,6 @@ div#tlogins div#l1  {
     border-bottom: 1px solid;
     margin-bottom: 2px;
 	padding: 18px 2px 0px !important;
-    background-image: -webkit-linear-gradient(
-45deg
-,#c0a47c 25%,#c0a47c 25%,#c0a47c 50%,#c0a47c 50%,#c0a47c 75%,#c0a47c 75%,#c0a47c)!important;
-    background: #ebebeb;
 }  background-size: contain;
     background-repeat: no-repeat;
     background-position: right;
@@ -129,18 +125,10 @@ div#tlogins div#l2 ,div#l3 {
     border-bottom: 1px solid;
     margin-bottom: 2px;
 	padding: 4px 2px 4px !important;
-    background-image: -webkit-linear-gradient(
-45deg
-,#c0a47c 25%,#c0a47c 25%,#c0a47c 50%,#c0a47c 50%,#c0a47c 75%,#c0a47c 75%,#c0a47c)!important;
-    background: #ebebeb;
 }  background-size: contain;
     background-repeat: no-repeat;
     background-position: right;
     height: 64px;
-    background-image: -webkit-linear-gradient(
-45deg
-,#c0a47c 25%,#c0a47c 25%,#c0a47c 50%,#c0a47c 50%,#c0a47c 75%,#c0a47c 75%,#c0a47c)!important;
-    background: #ebebeb;
 }
 div#tlogins div#l1 br {
     display: none;
@@ -308,10 +296,13 @@ img.fr.co {
 
 div#asim13 {
   width:100%;
-  top:150px;
+  top:145px;
   position:absolute;
   height:26px;
   padding:1px 0 0;
+	border-left: 2px solid#ffc107;
+    border-bottom: 1px solid #ffc107d9;
+font-family: 'jazeera',FontAwesome;
 }
 
 div#l1 {
