@@ -547,3 +547,12 @@ a.btn.minix.fa.fa-comment.fr {
     border-color: #c0a47c;
     background-image: linear-gradient(to bottom,#c0a47c 0,#c0a47c 100%);
 }
+button.border.btn.label.label-success.fl.fa.fa-plus {
+    color: #ffffff !important;
+    font-family: jazeera, FontAwesome;
+    width: 100%;
+    border-radius: 0px;
+    border: 1px solid rgb(255 255 255);
+    content: " انشاء غرفة";
+    text-align: center!important;
+}
