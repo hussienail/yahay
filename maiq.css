@@ -590,7 +590,7 @@ img.fl.fitimg.hand.u-pic {
     overflow: hidden;
 	}
 a.btn.minix.btn-primary.fa.fa-comment.fr {
-    color: #02e1ff !important;
+    color: #c0a47c  !important;
     padding: 4px 74px 7px 49px !important;
     border-radius: 2px 0px 0px 3px;
     border: 1px solid rgb(255 244 244 / 70%);
@@ -610,7 +610,7 @@ a.btn.minix.btn-primary.fa.fa-heart.fr {
     border: 1px solid rgb(255 244 244 / 70%);
     background-repeat: no-repeat;
     background-color: #ffffff00 !important;
-    color: #ff006d;
+    color: #2e6da4;
     margin-top: 0px !important;
     width: 50%;
     margin-left: 0px !important;
