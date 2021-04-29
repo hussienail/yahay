@@ -631,3 +631,9 @@ a.btn.minix.btn-primary.fa.fa-heart.fr {
     background-position-y: 60%;
     background-position: 49% -324px;
 }
+.fa-comment:before {
+   /* content: "\f075";
+}
+.fa-heart:before {
+    /* content: "\f004";
+}
