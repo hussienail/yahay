@@ -573,3 +573,31 @@ img.fl.fitimg.hand.u-pic {
     margin-bottom: 0!important;
     line-height: 26px;
 }
+.fr.rating-box {
+    margin-top: -139px!important;
+    font-size: 20px!important;
+    width: 15px;
+    height: 20px;
+    padding: 0 2px;
+    position: relative;
+    display: block;
+    display: table;
+    border-left-style: double;
+    border-radius: 20%;
+    border-right-style: double;
+}
+.rating-star {
+    font-size: 20px !important;
+    width: 15px;
+    height: 20px;
+    padding: 0 2px;
+    position: relative;
+    display: block;
+    float: left;
+}
+.empty-star:before {
+    content: "\2605";
+    position: absolute;
+    left: 0;
+    overflow: hidden;
+}
