@@ -556,3 +556,21 @@ button.border.btn.label.label-success.fl.fa.fa-plus {
     content: " انشاء غرفة";
     text-align: center!important;
 }
+img.fl.fitimg.hand.u-pic {
+    border-radius: 7px!important;
+    margin-top: 4px!important;
+    margin-right: 4px!important;
+    padding: 18px;
+    border: 1px solid#f3f3f3;
+    background-size: cover;
+}
+.uzr.fl.corner.borderg.mm {
+    border-left: 2px solid #8a6d3b;
+    margin-left: 0!important;
+    border-radius: 0!important;
+    width: 100%!important;
+    border-top: .7px solid #eee!important;
+    border-bottom: .7px solid #eee!important;
+    margin-bottom: 0!important;
+    line-height: 26px;
+}
