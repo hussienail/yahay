@@ -573,7 +573,7 @@ img.fl.fitimg.hand.u-pic {
     margin-bottom: 0!important;
     line-height: 26px;
 }
-.fr.rating-box {
+.fr.star-box {
     margin-top: -139px!important;
     font-size: 20px!important;
     width: 15px;
@@ -586,7 +586,7 @@ img.fl.fitimg.hand.u-pic {
     border-radius: 20%;
     border-right-style: double;
 }
-.rating-star {
+.star {
     font-size: 20px !important;
     width: 15px;
     height: 20px;
@@ -595,7 +595,7 @@ img.fl.fitimg.hand.u-pic {
     display: block;
     float: left;
 }
-.empty-star:before {
+.fa-star:before {
     content: "\2605";
     position: absolute;
     left: 0;
