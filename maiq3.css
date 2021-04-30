@@ -114,7 +114,8 @@ div#tlogins div#l1  {
     border-bottom: 1px solid;
     margin-bottom: 2px;
 	padding: 18px 2px 0px !important;
-}  background-size: contain;
+	background-image: url(https://iqr30.com/sico/z1ckqkkuh610.png);
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: right;
     height: 64px;
@@ -125,7 +126,8 @@ div#tlogins div#l2 ,div#l3 {
     border-bottom: 1px solid;
     margin-bottom: 2px;
 	padding: 4px 2px 4px !important;
-}  background-size: contain;
+	background-image: url(https://iqr30.com/sico/z1ckqkkuh610.png);
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: right;
     height: 64px;
