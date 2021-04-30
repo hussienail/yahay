@@ -386,3 +386,117 @@ a.label.label-primary.fr {
     background-color: #8a6d3b !important;
     border: 1px solid rgb(189 154 154/0%);
 }
+.tbox {
+    padding: 3px;
+    min-height: 28px!important;
+    border-right: 5px solid;
+    border-left: 5px solid;
+    border-color: #d2d2d2;
+    border-left-style: groove;
+    border-right-style: ridge;
+    border-radius: 3px!important;
+}
+.ae, button.btn {
+    border-radius: 3px;
+    border: #e8e8e8 solid 1px;
+}
+.border {
+    border: #e8e8e8 solid 1px;
+}
+.fl.fa.fa-sign-in.btn.btn-primary.dots.roomh.border.corner {
+    background-color: #c31e1e!important;
+    padding: 1px 4px!important;
+    pointer-events: none;
+}
+input[type=jfa-w] {
+  font-size:15px !important;
+  width:100%;
+  text-align:center;
+  color:#885867;
+  border-radius:14%;
+  margin-bottom:6px;
+  margin-top:1px;
+  margin-left:3px;
+}
+a.btn.minix.fa.fa-times.fr, a.btn.minix.fa.fa-thumbs-up.fr, a.btn.minix.fa.fa-comment.fr {
+    border-left: 1px solid #d3d3d3;
+    border-top: 1px solid #d3d3d3;
+    border-right: 1px solid #a6a6a6;
+    border-bottom: 1px solid #a6a6a6;
+    border-radius: 3px;
+}
+button.border.btn.label.label-success.fl.fa.fa-plus {
+    color: #ffffff !important;
+    font-family: jazeera, FontAwesome;
+    width: 100%;
+    border-radius: 0px;
+    border: 1px solid rgb(255 255 255);
+    content: " انشاء غرفة";
+    text-align: center!important;
+}
+a.btn.minix.btn-primary.fa.fa-heart.fr {
+    border-left: 1px solid #d3d3d3;
+    border-top: 1px solid #d3d3d3;
+    border-right: 1px solid #a6a6a6;
+    border-bottom: 1px solid #a6a6a6;
+    border-radius: 3px;
+}
+a.btn.minix.btn-primary.fa.fa-heart.fr {
+    color: #fff!important;
+    border-radius: 4px;
+    padding: 1px 4px 2px 5px;
+    margin-top: 6px;
+    background-repeat: repeat-x;
+    border-color: #b92c28;
+    background-image: linear-gradient(to bottom,#d9534f 0,#c12e2a 100%);
+    margin-left: 3px;
+}
+a.btn.minix.fa.fa-times.fr, a.btn.minix.fa.fa-thumbs-up.fr, a.btn.minix.fa.fa-comment.fr {
+    border-left: 1px solid #d3d3d3;
+    border-top: 1px solid #d3d3d3;
+    border-right: 1px solid #a6a6a6;
+    border-bottom: 1px solid #a6a6a6;
+    border-radius: 3px;
+}
+a.btn.minix.btn-primary.fa.fa-comment.fr {
+    color: #fff!important;
+    border-radius: 4px;
+    padding: 1px 4px 2px 5px;
+    margin-top: 6px;
+    background-repeat: repeat-x;
+    border-color: #c0a47c;
+    background-image: linear-gradient(to bottom,#c0a47c 0,#c0a47c 100%);
+}
+.fl.mini.fa.fa-bullhorn.btn.btnn-default {
+    font-size: 14px!important;
+    width: 100%;
+    background-color: #8a6d3b!important;
+    color: #fff;
+    text-align: center;
+    border-radius: 10%;
+    margin-bottom: 3px;
+    margin-top: 1px;
+    height: 25px;
+    padding: 5px 0;
+    margin-left: 1px;
+}
+.border {
+    border: #e8e8e8 solid 1px;
+}
+.label-primary, .btn-primary, .bg-primary, .label-primary:hover, .btn-primary:hover, .btn-primary:focus, .label-primary, .btn-primary {
+    border: 1px solid #fff;
+}
+span.busers.minix.badge.border {
+    display: -webkit-inline-box;
+    background-color: #ffffff00;
+}
+
+span.border {
+    border: none;
+}
+.ae.fa.chats.label.fa-comment.label-warning.fa-comment:before, .ae.fa.chats.label.fa-comment.label-primary.fa-comment:before {
+    content: "الخاص";
+}
+h3.popover-title, .fa-cog:before, .fa-commenting-o:before, .fa-group:before, .fa-users:before, span.border, .fl.fa.fa-comment.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.upm.borderg.fa-comment:before, .fa-envelope-o:before, .fa-diamond:before, .fa-search:before, .fa-ban:before, .fa-ban:before, .fa-user-times:before {
+    display: none;
+}
