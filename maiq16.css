@@ -478,10 +478,11 @@ a.btn.minix.btn-primary.fa.fa-comment.fr {
     margin-top: 1px;
     height: 25px;
     padding: 5px 0;
-    margin-left: 1px;
-}
+ margin-left: 1px;
+	}
 .border {
-    border: #e8e8e8 solid 1px;
+    border: 1px solid #e8e8e8;
+    border-color: #e8e8e8 !important;
 }
 .label-primary, .btn-primary, .bg-primary, .label-primary:hover, .btn-primary:hover, .btn-primary:focus, .label-primary, .btn-primary {
     border: 1px solid #fff;
@@ -521,3 +522,9 @@ h3.popover-title, .fa-cog:before, .fa-commenting-o:before, .fa-group:before, .fa
     margin-bottom: 0!important;
     line-height: 26px;
 }
+.border {
+    border: 1px solid #e8e8e8;
+    border-color: #e8e8e8 !important;
+}
+
+
