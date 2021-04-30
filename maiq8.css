@@ -421,3 +421,36 @@ button.border.btn.label.label-success.fl.fa.fa-plus {
     content: " انشاء غرفة";
     text-align: center!important;
 }
+a.btn.minix.fa.fa-times.fr, a.btn.minix.fa.fa-thumbs-up.fr, a.btn.minix.fa.fa-comment.fr {
+    border-left: 1px solid #d3d3d3;
+    border-top: 1px solid #d3d3d3;
+    border-right: 1px solid #a6a6a6;
+    border-bottom: 1px solid #a6a6a6;
+    border-radius: 3px;
+}
+a.btn.minix.fa.fa-thumbs-up.fr {
+    color: #fff!important;
+    border-radius: 4px;
+    padding: 1px 4px 2px 5px;
+    margin-top: 6px;
+    background-repeat: repeat-x;
+    border-color: #b92c28;
+    background-image: linear-gradient(to bottom,#d9534f 0,#c12e2a 100%);
+    margin-left: 3px;
+}
+a.btn.minix.fa.fa-times.fr, a.btn.minix.fa.fa-thumbs-up.fr, a.btn.minix.fa.fa-comment.fr {
+    border-left: 1px solid #d3d3d3;
+    border-top: 1px solid #d3d3d3;
+    border-right: 1px solid #a6a6a6;
+    border-bottom: 1px solid #a6a6a6;
+    border-radius: 3px;
+}
+a.btn.minix.fa.fa-comment.fr {
+    color: #fff!important;
+    border-radius: 4px;
+    padding: 1px 4px 2px 5px;
+    margin-top: 6px;
+    background-repeat: repeat-x;
+    border-color: #c0a47c;
+    background-image: linear-gradient(to bottom,#c0a47c 0,#c0a47c 100%);
+}
