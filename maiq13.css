@@ -306,18 +306,19 @@ font-family: 'jazeera',FontAwesome;
 
 
 label.label.tc.border.btn.label-info.fl {
-  margin:4px !important;
-  margin-top:-260px !important;
-  margin-right:15px !important;
-  margin-bottom:-64px !important;
-  margin-left:3px !important;
-  background-color:#1391a7 !important;
-  background:linear-gradient( 369deg,#ffffff 0%,#ffffff 100%) !important;
-  border-left:3px #2b8799 solid !important;
-  border-right:3px #2b8799 solid !important;
-  border-radius:7px;
+    margin: 4px !important;
+    margin-top: -260px !important;
+    margin-right: 15px !important;
+    margin-bottom: -64px !important;
+    margin-left: 3px !important;
+    background-color: #8a6d3b !important;
+    background: linear-gradient( 
+369deg
+,#ffffff 0%,#ffffff 100%) !important;
+    border-left: 3px #8a6d3b solid !important;
+    border-right: 3px #8a6d3b solid !important;
+    border-radius: 7px;
 }
-
 label.label.tc.border.pmsg.btn.label-info.fl {
   margin:4px !important;
   margin-top:0 !important;
@@ -379,3 +380,9 @@ label.label.tc.border.redit.btn.label-info.fl {
   border-right:1px #e8e8e8 solid !important;
 }
 
+a.label.label-primary.fr {
+    height: 100%;
+    width: 100%;
+    background-color: #8a6d3b !important;
+    border: 1px solid rgb(189 154 154/0%);
+}
